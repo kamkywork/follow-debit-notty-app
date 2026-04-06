@@ -1,4 +1,4 @@
-const CACHE_NAME = 'follow-debit-notty-app-v17'; // <--- เปลี่ยนเลขตรงนี้ทุกครั้งที่อัปเดตเว็บ (v3, v4, v5...)
+const CACHE_NAME = 'follow-debit-notty-app-v18'; // <--- เปลี่ยนเลขตรงนี้ทุกครั้งที่อัปเดตเว็บ (v3, v4, v5...)
 const urlsToCache = [
   './',
   './index.html',
